@@ -5,7 +5,7 @@
 Dự án thiết kế và mô phỏng hệ thống mạng LAN cho doanh nghiệp nhỏ bằng Cisco Packet Tracer. Kiến trúc bao gồm phân tách VLAN, định tuyến Inter-VLAN và tự động hóa cấp phát IP (DHCP).
 
 ## 2. Sơ đồ kiến trúc (Topology)
-![Sơ đồ mạng](link_ảnh_topology_của_mày_up_lên_github)
+![Sơ đồ mạng](https://github.com/duyan206/BTL_MangMayTinh/blob/main/Topology)
 
 ## 3. Quy hoạch IP (VLSM)
 * **VLAN 10 (Giám đốc):** 192.168.10.0/26
